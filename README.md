@@ -1,0 +1,2 @@
+# GIMP2.8 CONFIG
+
